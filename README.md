@@ -7,7 +7,7 @@
 - 💼 Experiência com **HTML**, **PHP**, **MySQL**, **JavaScript**, e **CSS**.
 
 🚀 **Projetos e Contribuições:**
-- 🌐 Visite meu site monetizado em [Esquematiza](https://esquematiza.com.br/)
+- 🌐 Blog monetizado em [Esquematiza](https://esquematiza.com.br/)
 - ▶️ Confira meu canal no [YouTube](https://youtube.com/randersonaraujo)
 - 📸 Siga-me no [Instagram](https://instagram.com/randersooon)
 - 📦 Desenvolvi uma extensão para Chrome, [AdScale Library](https://chromewebstore.google.com/detail/adscale-library/jfpmfbijlohggclgooopgnkdfdcadbof), utilizando JavaScript, PHP, MySQL, HTML e CSS.
